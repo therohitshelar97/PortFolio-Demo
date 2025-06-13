@@ -1,0 +1,15 @@
+.bg{
+    background-color: black;
+    color: white;
+}
+
+.pro-pic{
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+
+}
+
+.text-box{
+    margin-top: 150px;
+}

@@ -11,5 +11,17 @@
 }
 
 .text-box{
-    margin-top: 150px;
+    margin-top: 120px;
 }
+
+.col-box{
+   border: 1px solid white;
+   border-radius: 40px 10px;
+   text-align: center;
+   
+}
+
+.con-form{
+    margin-top: 400px;
+}
+
